@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "MWirelabs Models and Datasets"
+message: "If you use these models or datasets, please cite as below."
+authors:
+  - family-names: Nyalang
+    given-names: Badal
+    affiliation: "MWirelabs"
+keywords:
+  - Khasi
+  - Garo
+  - Northeast India
+  - NLP
+  - Language models
+  - Datasets
+license: MIT
+repository-code: "https://github.com/MWirelabs/mwirelabs-resources"
+repository-artifact: "https://huggingface.co/MWirelabs"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Nyalang
+      given-names: Badal
+  title: "MWirelabs: Applied AI & datasets for Northeast India"
+  year: 2025
+  doi: "10.5281/zenodo.17063992"
