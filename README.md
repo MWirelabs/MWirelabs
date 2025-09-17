@@ -13,5 +13,12 @@ https://doi.org/10.5281/zenodo.17083589
 https://doi.org/10.5281/zenodo.17063992
 Website: https://mwireconsulting.com
 
-Contributing & License
-See CONTRIBUTING.md and LICENSE in each project repo. Please cite Zenodo DOIs when using our datasets/models.
+## Licenses
+
+This repository contains multiple models and datasets, each with its own license.
+
+- [KhasiBERT](LICENSES/khasibert_LICENSE.txt) — CC BY-NC 4.0
+- [Kren v1](LICENSES/kren-v1_LICENSE) — CC BY-NC 4.0
+
+👉 The top-level [LICENSE](LICENSE) applies **only to repository code and documentation**.  
+👉 Model and dataset weights/data are governed by their respective licenses above.
